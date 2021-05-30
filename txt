@@ -1,1 +1,0 @@
-I use preimplemented resnet model changed epochs etc for understanding the resnet architecture .
